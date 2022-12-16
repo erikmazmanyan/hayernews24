@@ -1,0 +1,30 @@
+<?php
+/**
+ * Header Content Area
+ *
+ * This template can be overridden by copying it to your-child-theme/templates/header/content.php.
+ *
+ * HOWEVER, on occasion TieLabs will need to update template files and you
+ * will need to copy the new files to your child theme to maintain compatibility.
+ *
+ * @author 		TieLabs
+ * @version   2.1.0
+ */
+
+defined( 'ABSPATH' ) || exit; // Exit if accessed directly
+
+?>
+
+<div class="container">
+	<div class="tie-row logo-row">
+<?php do_action( 'TieLabs/Logo/before_wrapper' ); ?>
+<div class="logo-wrapper">
+			<div class="tie-col-md-4 logo-container">
+				<img src="https://www.hayernews24.live/wp-content/uploads/2022/08/Без-имени-1.png" width="400px" style="padding-top:40px; padding-bottom: 10px; float:left">
+		</div><!-- .tie-col /-->
+		</div><!-- .logo-wrapper /-->
+
+		<?php do_action( 'TieLabs/Logo/after_wrapper' ); ?>
+
+	</div><!-- .tie-row /-->
+</div><!-- .container /-->

@@ -1,0 +1,128 @@
+********************************************************************************
+********************************************************************************
+DUPLICATOR PRO PACKAGE-LOG: 2022-09-05 09:49:23
+NOTICE: Do NOT post to public sites or forums 
+PACKAGE CREATION START
+********************************************************************************
+********************************************************************************
+VERSION:	4.5.2
+WORDPRESS:	6.0.2
+PHP INFO:	7.2.34 | SAPI: litespeed
+SERVER:		Apache 
+ARCHITECTURE:	64-bit 
+CLIENT KICKOFF: off 
+PHP TIME LIMIT: [7200] not allowed 
+PHP MAX MEMORY: 4294967296 (256M default) 
+RUN TYPE:	Template Default
+MEMORY STACK:	46.25MB
+ARCHIVE ENGINE: ZipArchive: multi-thread
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP + CHUNKING (query size limit - 131072 )
+
+TABLES: total: 29 | filtered:0 | create:29
+REWIND DATABASE ITERATOR
+INSERT ROWS TABLE[INDEX:0] wpqj_users NUM ROWS: 1
+REWIND DATABASE ITERATOR
+INSERT ROWS TABLE[INDEX:0] wpqj_users NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:1] wpqj_usermeta NUM ROWS: 88
+INSERT ROWS TABLE[INDEX:2] wpqj_b2s_network_insights NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:3] wpqj_b2s_posts NUM ROWS: 2
+INSERT ROWS TABLE[INDEX:4] wpqj_b2s_posts_drafts NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:5] wpqj_b2s_posts_favorites NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:6] wpqj_b2s_posts_insights NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:7] wpqj_b2s_posts_network_details NUM ROWS: 2
+INSERT ROWS TABLE[INDEX:8] wpqj_b2s_posts_sched_details NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:9] wpqj_b2s_user NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:10] wpqj_b2s_user_contact NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:11] wpqj_b2s_user_network_settings NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:12] wpqj_commentmeta NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:13] wpqj_comments NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:14] wpqj_duplicator_pro_entities NUM ROWS: 5
+INSERT ROWS TABLE[INDEX:15] wpqj_duplicator_pro_packages NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:16] wpqj_links NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:17] wpqj_options NUM ROWS: 386
+INSERT ROWS TABLE[INDEX:18] wpqj_postmeta NUM ROWS: 1445
+INSERT ROWS TABLE[INDEX:19] wpqj_posts NUM ROWS: 260
+INSERT ROWS TABLE[INDEX:20] wpqj_termmeta NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:21] wpqj_terms NUM ROWS: 39
+INSERT ROWS TABLE[INDEX:22] wpqj_term_relationships NUM ROWS: 217
+INSERT ROWS TABLE[INDEX:23] wpqj_term_taxonomy NUM ROWS: 39
+INSERT ROWS TABLE[INDEX:24] wpqj_yoast_indexable NUM ROWS: 169
+INSERT ROWS TABLE[INDEX:25] wpqj_yoast_indexable_hierarchy NUM ROWS: 159
+INSERT ROWS TABLE[INDEX:26] wpqj_yoast_migrations NUM ROWS: 23
+INSERT ROWS TABLE[INDEX:27] wpqj_yoast_primary_term NUM ROWS: 50
+INSERT ROWS TABLE[INDEX:28] wpqj_yoast_seo_links NUM ROWS: 727
+SQL FILE SIZE CHECK OK, SIZE: 2819680
+SQL CREATED: hayernews24_014f92b07bf88de17083_20220905094824_database.sql
+SQL FILE SIZE: 2.69MB
+SQL FILE TIME: 2022-09-05 09:49:50
+SQL RUNTIME: 26.110 sec.
+MEMORY STACK: 46.25MB
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /home/artagroa/public_html/hayernews24.live
+ARCHIVE FILE: hayernews24_014f92b07bf88de17083_20220905094824_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	152.07MB
+STATS:	Dirs 858 | Files 6,659 | Total 7,517
+SQL ADDED: hayernews24_014f92b07bf88de17083_20220905094824_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 7515
+    [filename] => /home/artagroa/public_html/hayernews24.live/wp-content/backups-dup-pro/tmp/hayernews24_014f92b07bf88de17083_20220905094824_archive.zip
+    [comment] => 
+)
+
+COMPRESSED SIZE: 86.37MB
+ARCHIVE RUNTIME: 183.899 sec.
+MEMORY STACK: 46.25MB
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+STORAGE:
+********************************************************************************
+LOCAL: Default, /home/artagroa/public_html/hayernews24.live/wp-content/backups-dup-pro
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 2.69MB
+INSTALLER FILE: 71.9KB
+ARCHIVE FILE: 88.29MB 
+EXPECTED FILE/DIRECTORY COUNT: 7,517
+ACTUAL FILE/DIRECTORY COUNT: 7,515
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 256.805 sec.
+PEAK PHP MEMORY USED: 46.25MB
+DONE PROCESSING => hayernews24 2022-09-05 09:53:40
+
+-----------------------------------------
+STORAGE PROCESSING THREAD INITIATED
+** LOCAL [Name: Default] [ID: -2] **
+SUCCESS: copied to default location: /home/artagroa/public_html/hayernews24.live/wp-content/backups-dup-pro
+-----------------------------------------
+STORAGE PROCESSING THREAD INITIATED
+STORAGE PROCESSING COMPLETED
+
+********************************************************************************
+********************************************************************************
+DUPLICATOR PRO PACKAGE CREATION OR MANUAL STORAGE TRANSFER END: 2022-09-05 09:53:45
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+********************************************************************************
+
